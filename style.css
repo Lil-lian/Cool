@@ -1,0 +1,12 @@
+h1 {
+  color: blueviolet;
+}
+body {
+  background: rgb(240, 247, 198);
+}
+.container {
+  background: rgba(215, 250, 248, 0.9);
+  padding: 20px;
+  max-height: 500px;
+  max-width: 1000px;
+}
